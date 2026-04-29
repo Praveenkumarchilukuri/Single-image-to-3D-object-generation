@@ -1,0 +1,10 @@
+pandas
+transformers
+scipy
+opencv-python
+imageio
+numpy
+trimesh
+pillow
+accelerate
+matplotlib
